@@ -1,10 +1,10 @@
 ---
-description: golang 常用的package
+description: 定时任务
 ---
 
-# package
+# cron
 
-ackage导入包：&#x20;
+导入包：&#x20;
 
 ```
 github.com/robfig/cron
